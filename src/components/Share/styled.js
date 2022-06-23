@@ -25,7 +25,7 @@ export const Btn = styled.button`
     width: auto;
     height: auto;
     padding: 10px;
-    background: blue;
-    color: white;
-
+    background: skyblue;
+    color: black;
+    font-size: 1.6rem;
 `

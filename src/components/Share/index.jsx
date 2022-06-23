@@ -22,7 +22,7 @@ export const Share = ({ setCiudad }) => {
             />
             <Btn
                 onClick={handlerSubmit}
-            >Completar</Btn>
+            >Buscar!</Btn>
         </ContainerShare>
     )
 }
