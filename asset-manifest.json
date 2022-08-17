@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/clima-app/static/css/main.48e593d8.css",
-    "main.js": "/clima-app/static/js/main.e3169685.js",
+    "main.js": "/clima-app/static/js/main.1337ab4e.js",
     "static/js/787.5069251b.chunk.js": "/clima-app/static/js/787.5069251b.chunk.js",
-    "static/media/fresco.jpg": "/clima-app/static/media/fresco.a5a73da1360d52e12591.jpg",
-    "static/media/calor.jpg": "/clima-app/static/media/calor.368bb1eb65e646be62f0.jpg",
-    "static/media/perfecto.jpg": "/clima-app/static/media/perfecto.aec422b8b140cdfde503.jpg",
-    "static/media/frio.jpg": "/clima-app/static/media/frio.a4d40c65d052270cd9c1.jpg",
+    "static/media/perfecto.jpg": "/clima-app/static/media/perfecto.41cf6382ae2298029024.jpg",
+    "static/media/frio.jpg": "/clima-app/static/media/frio.f5451e24aaf261f84fc1.jpg",
+    "static/media/fresco.jpg": "/clima-app/static/media/fresco.ea85ab6016180f4e5815.jpg",
+    "static/media/calor.jpg": "/clima-app/static/media/calor.4930cc948e633c7a04df.jpg",
     "static/media/MF.png": "/clima-app/static/media/MF.5271f4adf56d358f2fbb.png",
     "index.html": "/clima-app/index.html",
     "main.48e593d8.css.map": "/clima-app/static/css/main.48e593d8.css.map",
-    "main.e3169685.js.map": "/clima-app/static/js/main.e3169685.js.map",
+    "main.1337ab4e.js.map": "/clima-app/static/js/main.1337ab4e.js.map",
     "787.5069251b.chunk.js.map": "/clima-app/static/js/787.5069251b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48e593d8.css",
-    "static/js/main.e3169685.js"
+    "static/js/main.1337ab4e.js"
   ]
 }
