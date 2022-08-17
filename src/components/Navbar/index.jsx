@@ -6,7 +6,7 @@ import {
     BarContainer,
     Bar
 } from './styled'
-import Lindo from './lindo.png'
+import Lindo from '../../assets/MF.png'
 
 
 export const Navbar = () => {
