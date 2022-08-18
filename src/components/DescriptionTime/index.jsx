@@ -11,14 +11,14 @@ export const DescriptionTime = () => {
   return (
     <ContainerDes>
       <P>
-                    {stateApi.weather[0].description}
+                    {stateApi.weather[0].description[0].toUpperCase() +stateApi.weather[0].description.slice(1)}
                 </P>
                 <P>
                     Max:{stateApi.main.temp_max}
                 </P>
                 <P>Min:{stateApi.main.temp_min}</P>
                 <P>
-                    Country: {stateApi.sys.country}
+                    País: {stateApi.sys.country}
                 </P>
     </ContainerDes>
   )

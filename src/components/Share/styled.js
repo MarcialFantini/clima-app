@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const ContainerShare = styled.div`
     width: 100%;
     height: auto;
-    min-height: 100px;
+    min-height: 150px;
     color: black;
     display: flex;
 

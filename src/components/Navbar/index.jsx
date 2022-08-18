@@ -3,8 +3,7 @@ import {
     NavbarContainer,
     LogoContainer,
     Img,
-    BarContainer,
-    Bar
+    
 } from './styled'
 import Lindo from '../../assets/MF.png'
 
@@ -15,11 +14,7 @@ export const Navbar = () => {
             <LogoContainer>
                 <Img image={Lindo} />
             </LogoContainer>
-            <BarContainer>
-                <Bar></Bar>
-                <Bar></Bar>
-                <Bar></Bar>
-            </BarContainer>
+            
         </NavbarContainer>
     )
 }

@@ -6,7 +6,8 @@ export const Grid = styled.div`
     gap: 30px;
 
     width: 90%;
-    margin: 30px auto;
+
+    margin: 80px auto;
 `
 
 export const Slice = styled.div`
@@ -24,4 +25,5 @@ export const AppContainer = styled.div`
     min-height: 100vh;
     height: auto;
     padding-bottom: 40px;
+    
 `

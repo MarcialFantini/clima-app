@@ -5,7 +5,8 @@ export const ContainerDes = styled.div`
     background: rgb(255,255,255,0.7);
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
+    min-height: 150px;
 `
 
